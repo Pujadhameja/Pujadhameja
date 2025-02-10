@@ -53,7 +53,7 @@ I am driven by the desire to make technology more accessible and meaningful whil
 - 🎭 **Creative Performer**, choreographing dances and directing plays.
 - ✍️ Passionate about **poetry and storytelling**.
 - 🏸 **Badminton enthusiast** with a love for competitive sports.
-- 🏀 ** Basketball Player**, embracing teamwork and strategy.
+- 🏀 **Basketball Player**, embracing teamwork and strategy.
 
 ---
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pujadhameja&theme=radical)
