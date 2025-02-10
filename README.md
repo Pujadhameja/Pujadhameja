@@ -56,6 +56,10 @@ I am driven by the desire to make technology more accessible and meaningful whil
 - 🏀 ** Basketball Player**, embracing teamwork and strategy.
 
 ---
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pujadhameja&theme=radical)
+
+
+
 
 ### 📧 Let's Connect
 
